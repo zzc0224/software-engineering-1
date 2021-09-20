@@ -1,0 +1,37 @@
+  # 存入关键字
+    void edit()//输入关键字
+    {
+        key[0]="auto";
+        key[1]="break";
+        key[2]="case";
+        key[3]="char";
+        key[4]="const";
+        key[5]="continue";
+        key[6]="default";
+        key[7]="do";
+        key[8]="double";
+        key[9]="else";
+        key[10]="enum";
+        key[11]="extern";
+        key[12]="float";
+        key[13]="for";
+        key[14]="goto";
+        key[15]="if";
+        key[16]="int";
+        key[17]="long";
+        key[18]="register";
+        key[19]="return";
+        key[20]="short";
+        key[21]="signed";
+        key[22]="sizeof";
+        key[23]="static";
+        key[24]="struct";
+        key[25]="switch";
+        key[26]="typedef";
+        key[27]="union";
+        key[28]="unsigned";
+        key[29]="void";
+        key[30]="volatile";
+        key[31]="while";
+        key[32]="elseif";
+    }
